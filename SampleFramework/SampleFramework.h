@@ -11,6 +11,7 @@
 //! Project version number for SampleFramework.
 FOUNDATION_EXPORT double SampleFrameworkVersionNumber;
 
+
 //! Project version string for SampleFramework.
 FOUNDATION_EXPORT const unsigned char SampleFrameworkVersionString[];
 
